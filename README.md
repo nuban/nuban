@@ -17,4 +17,4 @@ if(you look at me){
   System.out.println("you are my friend~~")
 }
 ```
-> 我想我是爱你的，我猜你也舍不得。
+> 我想你是爱我的，我猜你也舍不得。
