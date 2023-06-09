@@ -16,5 +16,4 @@
 if(you look at me){
   System.out.println("you are my friend~~")
 }
-```
-> 我想你是爱我的，我猜你也舍不得。
+[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
